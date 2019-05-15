@@ -13,7 +13,9 @@
 
 
 
-[权限模板-vue-shiro](https://github.com/fuce1314/Springboot_v2?tdsourcetag=s_pcqq_aiomsg)
+[权限模板-vue-shiro:码云地址](https://gitee.com/bdj/SpringBoot_v2)
+
+[权限模板-vue-shiro:git地址](https://github.com/fuce1314/Springboot_v2)
 
 
 
